@@ -1,4 +1,16 @@
-## Hi there 👋
+## QuantStrat Lab
+
+### Getting Start
+There are a few repo that is important in setting up the environment
+1. [Builder](https://github.com/QuantStrat-Lab/Builder)
+    - Builder is responsible to set up environment, install pakage, and manage repo
+    - `build.sh`, `repo_helper.sh` are two script that are important. Use `-h` to find out more information.
+
+2. [Marketdata](https://github.com/QuantStrat-Lab/marketdata)
+    - Marketdata is important to record, fetch and manage marketdata
+
+### Naming
+Strategy repo should be anonymously named with prefix `qs_`.
 
 <!--
 
